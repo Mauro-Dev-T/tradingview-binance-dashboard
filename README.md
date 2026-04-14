@@ -1,6 +1,8 @@
 # ⚡ Module 3 — Full Trading Automation System + Dashboard
 
-![Dashboard Login](dashboard-preview.png)
+<p align="center">
+  <img src="dashboard-preview.png" alt="Dashboard Preview" width="700"/>
+</p>
 
 Complete trading automation system built from scratch. Receives TradingView signals, executes orders on Binance Spot, stores all activity in a database, and displays everything in a real-time web dashboard.
 
