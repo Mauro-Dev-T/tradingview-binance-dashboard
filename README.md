@@ -1,4 +1,4 @@
-# ⚡ Module 3 — Full Trading Automation System + Dashboard
+#  Module 3 — Full Trading Automation System + Dashboard
 
 <p align="center">
   <img src="dashboard-preview.png" alt="Dashboard Preview" width="500"/>
@@ -8,7 +8,7 @@ Complete trading automation system built from scratch. Receives TradingView sign
 
 ---
 
-## 📌 Overview
+##  Overview
 
 **Flow:**
 
@@ -18,7 +18,7 @@ TradingView Alert → Webhook → Parse Signal → Execute on Binance → Save t
 
 ---
 
-## ⚙️ Features
+##  Features
 
 - Receives TradingView webhooks and parses semi-structured signals
 - Executes **market orders** on **Binance Spot** automatically
@@ -34,7 +34,7 @@ TradingView Alert → Webhook → Parse Signal → Execute on Binance → Save t
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer      | Technology       |
 | ---------- | ---------------- |
@@ -46,7 +46,7 @@ TradingView Alert → Webhook → Parse Signal → Execute on Binance → Save t
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Install dependencies
 
@@ -83,7 +83,7 @@ python demo.py
 
 ---
 
-## 📡 TradingView Webhook Payload
+##  TradingView Webhook Payload
 
 ```json
 {
@@ -98,7 +98,7 @@ Webhook URL: `http://your-server:5002/webhook`
 
 ---
 
-## 🔧 Configuration (.env)
+##  Configuration (.env)
 
 | Variable              | Description                | Default      |
 | --------------------- | -------------------------- | ------------ |
@@ -115,7 +115,7 @@ Webhook URL: `http://your-server:5002/webhook`
 
 ---
 
-## 🔮 Roadmap
+##  Roadmap
 
 - [x] Module 1 — Signal notifications via Telegram
 - [x] Module 2 — Automatic order execution via Binance API
@@ -123,7 +123,7 @@ Webhook URL: `http://your-server:5002/webhook`
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Mauro Dev** — Python Developer | Trading Automation Specialist  
 [Upwork Profile](https://www.upwork.com/freelancers/~016463e7b3cbc8fa20)
