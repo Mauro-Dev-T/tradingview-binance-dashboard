@@ -121,7 +121,7 @@ Webhook URL: `http://your-server:5002/webhook`
 - [x] Module 2 — Automatic order execution via Binance API
 - [x] Module 3 — Full system + real-time dashboard
 
----
+----
 
 ##  Author
 
